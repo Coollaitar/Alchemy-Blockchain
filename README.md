@@ -1,6 +1,6 @@
 # Alchemy Blockchain Documentation
 
-| - 1. How to Develop an NFT Smart Contract (ERC721) with Alchemy |
+##  1. **How to Develop an NFT Smart Contract (ERC721) with Alchemy** 
 - How to write and modify the smart contract using OpenZeppelin and Remix
 - Get free Goerli ETH using [Click Here](https://goerlifaucet.com/)
 - Deploy it on the Ethereum Goerli testnet blockchain to save on gas fees
