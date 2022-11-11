@@ -55,3 +55,15 @@
         require(owner.send(address(this).balances));
     ```
 - Create a buy-coffee.js script to test your contract
+    - [Basic Code] ()
+
+- Deploy your BuyMeACoffe.sol smart contract to the Ethereum Goerli testnet using Alchemy and MetaMask
+    - [Basic Code] ()
+
+
+- Implement a withdraw script
+    - [Basic Code] ()
+
+
+- Build the frontend Buy Me A Coffee website dapp with Replit and Ethers.js    
+    - [Basic Code] ()
