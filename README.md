@@ -49,22 +49,22 @@
     - Ethereum Goerli
 
 - Create the Contract `BuyMeACoffee.sol` 
-    - [Code Link] (https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/BuyMeACoffee-contracts/contracts/BuyMeACoffee.sol)
+    - [Code Link](https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/BuyMeACoffee-contracts/contracts/BuyMeACoffee.sol)
   - Important Function 
     ```solidity
     function withdrawTips() public {
         require(owner.send(address(this).balances));
     ```
 - Create a buy-coffee.js script to test your contract
-    - [Code Link] (https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/BuyMeACoffee-contracts/scripts/buy-coffee.js)
+    - [Code Link](https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/BuyMeACoffee-contracts/scripts/buy-coffee.js)
 
 - Deploy your BuyMeACoffe.sol smart contract to the Ethereum Goerli testnet using Alchemy and MetaMask
-    - [Code Link] (https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/BuyMeACoffee-contracts/scripts/deploy.js)
+    - [Code Link](https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/BuyMeACoffee-contracts/scripts/deploy.js)
 
 
 - Implement a withdraw script
-    - [Code Link] (https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/BuyMeACoffee-contracts/scripts/withdraw.js)
+    - [Code Link](https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/BuyMeACoffee-contracts/scripts/withdraw.js)
 
 
 - Build the frontend Buy Me A Coffee website dapp with Replit and Ethers.js    
-    - [Code Link] (https://github.com/Coollaitar/Alchemy-Blockchain/tree/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/Frontend/RTW3-Week2-BuyMeACoffee-Website)
+    - [Code Link](https://github.com/Coollaitar/Alchemy-Blockchain/tree/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/Frontend/RTW3-Week2-BuyMeACoffee-Website)
