@@ -46,7 +46,7 @@
     - Click on Transact
 
 ### Congrats you minted an NFT🎉🎉🎉    
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 ## 2. **How to Build "Buy Me a Coffee" DeFi dapp**
 
 ### For Code : [Click Here](https://github.com/Coollaitar/Alchemy-Blockchain/tree/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/BuyMeACoffee-contracts)

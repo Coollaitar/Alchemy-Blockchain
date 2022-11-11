@@ -39,25 +39,27 @@ module.exports = {
 
 }
 ```
-
+```
 npm install dotenv
 touch .env
-
+```
+### ENV FILE
+```
 GOERLI_URL = ""
 GOERLI_API_KEY = ""
 PRIVATE_KEY = ""
+```
+### Main Function 
 
-// main function 
-
-1) Get the contract that has been deployed to Goerli
-
+#### 1) Get the contract that has been deployed to Goerli
+```
 async function main() {
 	const contractAddress = "";
 	const contractABI = abi.abi;
-
-2) get the node connection and wallet connection
-
+```
+#### 2) get the node connection and wallet connection
+```
 const provider = new hre.ethers.providers.AlchemyProvider("goerli",process.env.GOERLI_API_KEY);
 
 const signer = new hre.ethers.Wallet(process.env.PRIVATE_KEY, provider);
-
+```
