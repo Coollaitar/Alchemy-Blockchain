@@ -39,10 +39,11 @@
 
 ## 2. **How to Build "Buy Me a Coffee" DeFi dapp**
 
+### For Code : [Click Here]()
 - Buy Me A Coffee is just an PROFFESIONAL way of asking money
 
 - Used tools to develop and deploy
     - Alchemy
     - Hardhat
     - Ethers.js
-    - Ethereum Goerli.
+    - Ethereum Goerli
