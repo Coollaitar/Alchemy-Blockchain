@@ -38,3 +38,11 @@
 ### Congrats you minted an NFT🎉🎉🎉    
 
 ## 2. **How to Build "Buy Me a Coffee" DeFi dapp**
+
+- Buy Me A Coffee is just an PROFFESIONAL way of asking money
+
+- Used tools to develop and deploy
+    - Alchemy
+    - Hardhat
+    - Ethers.js
+    - Ethereum Goerli.
