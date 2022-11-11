@@ -36,3 +36,5 @@
     - Click on Transact
 
 ## Congrats you minted an NFT🎉🎉🎉    
+
+## 2. **How to Build "Buy Me a Coffee" DeFi dapp**
