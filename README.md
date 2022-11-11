@@ -35,6 +35,6 @@
     - URI FID : `ipfs://\<your\_metadata\_cid>`
     - Click on Transact
 
-## Congrats you minted an NFT🎉🎉🎉    
+### Congrats you minted an NFT🎉🎉🎉    
 
 ## 2. **How to Build "Buy Me a Coffee" DeFi dapp**
