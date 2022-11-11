@@ -47,3 +47,11 @@
     - Hardhat
     - Ethers.js
     - Ethereum Goerli
+
+- Create the Contract `BuyMeACoffee.sol`
+  - Important Function 
+    ```solidity
+    function withdrawTips() public {
+        require(owner.send(address(this).balances));
+    ```
+- Create a buy-coffee.js script to test your contract
