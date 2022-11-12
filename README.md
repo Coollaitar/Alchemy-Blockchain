@@ -1,4 +1,4 @@
-# Alchemy Blockchain Documentation
+# Alchemy Blockchain Documentation <img src="https://media.tenor.com/UTxZPwKlNNIAAAAi/ethereum-ethereum-crypto.gif" width="60" height="60" />
 
 ##  1. **How to Develop an NFT Smart Contract (ERC721) with Alchemy** 
 
