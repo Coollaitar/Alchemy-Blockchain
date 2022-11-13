@@ -78,3 +78,37 @@
 
 - Build the frontend Buy Me A Coffee website dapp with Replit and Ethers.js    
     - [Code Link](https://github.com/Coollaitar/Alchemy-Blockchain/tree/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/Frontend/RTW3-Week2-BuyMeACoffee-Website)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+## 3. How to Make NFTs with On-Chain Metadata - Hardhat and JavaScript
+
+### For Code : [Click Here]()
+
+- You will Learn
+    - How to store NFTs metadata on chain
+    - What is Polygon and why it's important to lower Gas fees.
+    - How to deploy on Polygon Mumbai
+    - How to process and store on-chain SVG images and JSON objects
+    - How to modify your metadata based on your interactions with the NFT
+
+- Why we are using Polgon PoS ?
+    - Polygon PoS - Lower Gas fees and Faster Transactions
+    - enables developers to build scalable user-friendly DApps with low transaction fees without sacrificing security
+    - Faster transactions `(65,000 tx/seconds vs ~14)`
+    - Approximately `~10,000x` lower gas costs per transaction than Ethereum
+
+- Add Polygon Mumbai to your Metamask Wallet
+    - Get Free Matic on [Link](mumbaifaucet.com) 
+   
+- How to Make NFTs with On-Chain Metadata - Project Setup 
+    - Refer to [Basic Code]()   
+
+- NFTs with On-Chain Metadata: Develop the Smart Contract
+    - Smart Contract [Link]() 
+    - Implement 4 Different Functions
+        - generateCharacter
+        - getLevels
+        - getTokenURI
+        - mint
+        - train
