@@ -2,7 +2,7 @@
 
 ##  1. **How to Develop an NFT Smart Contract (ERC721) with Alchemy** 
 
-### For Code : [Click Here](https://github.com/Coollaitar/Alchemy-Blockchain/tree/main/1.%20How%20to%20Develop%20an%20NFT%20Smart%20Contract%20(ERC721)%20with%20Alchemy)
+### ✅ For Code : [Click Here](https://github.com/Coollaitar/Alchemy-Blockchain/tree/main/1.%20How%20to%20Develop%20an%20NFT%20Smart%20Contract%20(ERC721)%20with%20Alchemy)
 
 - How to write and modify the smart contract using OpenZeppelin and Remix
 
@@ -49,7 +49,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
 ## 2. **How to Build "Buy Me a Coffee" DeFi dapp**
 
-### For Code : [Click Here](https://github.com/Coollaitar/Alchemy-Blockchain/tree/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/BuyMeACoffee-contracts)
+### ✅ For Code : [Click Here](https://github.com/Coollaitar/Alchemy-Blockchain/tree/main/2.%20How%20to%20Build%20Buy%20Me%20a%20Coffee%20DeFi%20dapp/BuyMeACoffee-contracts)
 - Buy Me A Coffee is just an PROFFESIONAL way of asking money
 
 - Used tools to develop and deploy
@@ -83,7 +83,7 @@
 
 ## 3. How to Make NFTs with On-Chain Metadata - Hardhat and JavaScript
 
-### For Code : [Click Here](https://github.com/Coollaitar/Alchemy-Blockchain/tree/main/3.%20How%20to%20Make%20NFTs%20with%20On-Chain%20Metadata%20-%20Hardhat%20and%20JavaScript)
+### ✅ For Code : [Click Here](https://github.com/Coollaitar/Alchemy-Blockchain/tree/main/3.%20How%20to%20Make%20NFTs%20with%20On-Chain%20Metadata%20-%20Hardhat%20and%20JavaScript)
 
 - You will Learn
     - How to store NFTs metadata on chain
