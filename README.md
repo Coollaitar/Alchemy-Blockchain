@@ -83,7 +83,7 @@
 
 ## 3. How to Make NFTs with On-Chain Metadata - Hardhat and JavaScript
 
-### For Code : [Click Here]()
+### For Code : [Click Here](https://github.com/Coollaitar/Alchemy-Blockchain/tree/main/3.%20How%20to%20Make%20NFTs%20with%20On-Chain%20Metadata%20-%20Hardhat%20and%20JavaScript)
 
 - You will Learn
     - How to store NFTs metadata on chain
@@ -102,13 +102,44 @@
     - Get Free Matic on [Link](mumbaifaucet.com) 
    
 - How to Make NFTs with On-Chain Metadata - Project Setup 
-    - Refer to [Basic Code]()   
+    - Refer to [Basic Code](https://github.com/Coollaitar/Alchemy-Blockchain/tree/main/Basic%20Codes)   
 
 - NFTs with On-Chain Metadata: Develop the Smart Contract
-    - Smart Contract [Link]() 
+    - Smart Contract [Link](https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/3.%20How%20to%20Make%20NFTs%20with%20On-Chain%20Metadata%20-%20Hardhat%20and%20JavaScript/ChainBattled/contracts/ChainBattles.sol) 
     - Implement 4 Different Functions
-        - generateCharacter
-        - getLevels
-        - getTokenURI
-        - mint
-        - train
+        - generateCharacter 
+        - getLevels [Create getLevels Function to retrieve the NFT Level](https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/3.%20How%20to%20Make%20NFTs%20with%20On-Chain%20Metadata%20-%20Hardhat%20and%20JavaScript/ChainBattled/contracts/ChainBattles.sol)
+        - getTokenURI [Create Function to generate the tokenURI](https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/3.%20How%20to%20Make%20NFTs%20with%20On-Chain%20Metadata%20-%20Hardhat%20and%20JavaScript/ChainBattled/contracts/ChainBattles.sol)
+        - mint [Create Mint Function to create the NFT with on-chain metadata](https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/3.%20How%20to%20Make%20NFTs%20with%20On-Chain%20Metadata%20-%20Hardhat%20and%20JavaScript/ChainBattled/contracts/ChainBattles.sol)
+        - train [Create the Train Function to raise your NFT Level](https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/3.%20How%20to%20Make%20NFTs%20with%20On-Chain%20Metadata%20-%20Hardhat%20and%20JavaScript/ChainBattled/contracts/ChainBattles.sol)
+- What Are SVGs and Why They Matter ?   
+    - Scalable Vector Graphic File (SVG) 
+    - 2D Images
+    - Easily Modified and generate using code
+    - Easily converted to Base64 data  
+
+- **IMPORTANT** Create the generateCharacter Function to Create the SVG Image 
+    - [Solidity File](https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/3.%20How%20to%20Make%20NFTs%20with%20On-Chain%20Metadata%20-%20Hardhat%20and%20JavaScript/ChainBattled/contracts/ChainBattles.sol)
+    - `data:image/svg+xml;base64`
+    - `Base64.encode`
+
+### Congrats After Writing All These Functions You Have Completed Writing Smart Contract 🌈   
+
+- Deploy the NFTs with On-Chain Metadata Smart Contract
+    - create `.env` file
+
+- Create the Deployment Script
+    - [Code](https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/3.%20How%20to%20Make%20NFTs%20with%20On-Chain%20Metadata%20-%20Hardhat%20and%20JavaScript/ChainBattled/scripts/deploy.js)
+
+- Compile and Deploy the smart contract
+    - Use [Basic Code](https://github.com/Coollaitar/Alchemy-Blockchain/blob/main/Basic%20Codes/code.md) to deploy
+
+- Check your smart contract on Polygon Scan
+    - [Paste Your Address Here](https://mumbai.polygonscan.com/)
+
+- View your Dynamic NFT On OpenSea    
+    - [Paste Your Address Here](https://testnets.opensea.io/)
+
+## Congrats your NFT just Leveled Up!🎉
+
+-----------------------------------------------------------------------------------------------------------------------------------------
